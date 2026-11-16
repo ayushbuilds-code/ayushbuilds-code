@@ -166,8 +166,9 @@ Currently focused on:
 <!-- ================= BADGES ================= -->
 
 ## 🏅 Open Source & Achievements
-<div><a href="https://cloud.layer5.io/user/9d37d737-8c33-40b6-8787-a1418ae59d6a?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+<div><a href="https://cloud.layer5.io/user/9d37d737-8c33-40b6-8787-a1418ae59d6a?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
+[![Founding Contributor #7 @ayushbuilds-code](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%237%20of%20100%20%E2%80%A2%20%40ayushbuilds-code&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 <div align="center">
 
 <a href="https://github.com/meshery/meshery">
