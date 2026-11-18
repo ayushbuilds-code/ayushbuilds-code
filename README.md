@@ -33,8 +33,8 @@ I'm exploring both frontend and backend development, improving my skills through
 
 ## 🔗 Connect With Me
 
-<a href="https://github.com/ayushbuilds-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="www.linkedin.com/in/ayush-dungarwal-93646b360">
+<img src="https://img.icons8.com/color/1200/linkedin.jpg" />
 </a>
 
 <br/><br/>
