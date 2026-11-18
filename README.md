@@ -34,7 +34,7 @@ I'm exploring both frontend and backend development, improving my skills through
 ## 🔗 Connect With Me
 
 <a href="www.linkedin.com/in/ayush-dungarwal-93646b360">
-<img src="https://img.icons8.com/color/1200/linkedin.jpg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br/><br/>
